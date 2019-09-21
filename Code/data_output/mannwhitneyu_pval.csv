@@ -1,0 +1,22 @@
+,"SIO weekday
+ vs
+ SIO weekend","SIO weekday
+ vs
+ TAE weekday","SIO weekday
+ vs
+ TAE weekend","SIO weekend
+ vs
+ TAE weekday","SIO weekend
+ vs
+ TAE weekend","TAE weekday
+ vs
+ TAE weekend"
+O3,0.143,5.22e-59,8.21e-45,9.12e-31,5.18e-29,0.108
+NO2,1.21e-33,0,0,7.85e-310,0,1.04e-51
+PM10,3.13e-58,3.96e-15,1.57e-12,1.94e-101,3.9e-84,0.29
+NOX,4.28e-32,0,0,7.94e-310,0,2.07e-55
+Temperature,0.414,2.24e-29,3.02e-15,9.96e-19,5.86e-12,0.239
+Precipitation,0.348,5.22e-07,0.000108,3.73e-05,0.00043,0.459
+Radiation,0.346,5.46e-83,3.49e-50,9.23e-50,2.9e-36,0.419
+Wind direction,0.0963,6.59e-21,4.84e-27,4.2e-09,8.64e-16,0.000269
+Wind speed,0.0543,8.6e-43,2.36e-37,1.31e-18,4.07e-21,0.00371
